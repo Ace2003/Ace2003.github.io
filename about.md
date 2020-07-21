@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-这个女孩叫于莎莎。
+这个女孩叫于莎莎，刚高考完。
 
 ![nh1.png](https://i.loli.net/2020/07/21/12P8jOCu54cbiK6.png)
 
