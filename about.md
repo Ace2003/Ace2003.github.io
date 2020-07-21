@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-这个女孩叫于莎莎，刚高考完。
+这个男孩叫曾超。
 
-![nh1.png](https://i.loli.net/2020/07/21/12P8jOCu54cbiK6.png)
-
-可是啊，总有风吹不散的认真````
+![FJIMG_20200721_192741.jpg](https://i.loli.net/2020/07/21/xGzhjH2JBlorDKv.jpg)
