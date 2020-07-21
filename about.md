@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Wo jiao ZengChao.
+谁呢？一个生活的loser。
