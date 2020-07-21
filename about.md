@@ -6,5 +6,5 @@ permalink: /about/
 
 Hi，我是 ZengChao.
 
-![nh.png](https://i.loli.net/2020/07/21/BtPosxCJEnhLRSQ.jpg)
+![nh1.png](https://i.loli.net/2020/07/21/12P8jOCu54cbiK6.png)
 
