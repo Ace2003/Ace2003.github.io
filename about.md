@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-谁呢？一个生活的loser。
+> 茴香豆的茴字，怎样写的？
+
+深居简出，无人问津。
